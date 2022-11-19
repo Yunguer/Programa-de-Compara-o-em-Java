@@ -1,4 +1,4 @@
-# Programa-de-Comparação-em-Java
+# Programa de Comparação em Java
 Repositório para um programa que faz comparação de alguns dados em Java
 
 Esse programa faz a comparação de alguns dados dentro de um arquivo de texto, sendo esse dados: a quantidade de pessoas em uma família
